@@ -1,7 +1,9 @@
-package Two;
+ackage Two;
+
+import One.Animal;
 
 public class Person {
     public Person() {
-        System.out.println(Main.publicField);
+        System.out.println(Animal.publicField);
     }
 }
