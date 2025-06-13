@@ -1,4 +1,4 @@
-ackage Two;
+package Two;
 
 import One.Animal;
 
